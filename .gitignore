@@ -8,6 +8,7 @@ wheels/
 .python-version
 requirements-dev.lock
 requirements.lock
+.DS_Store
 
 
 # venv
